@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello 
+=======
+hello 
+hello world
+>>>>>>> gama_20190424
